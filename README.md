@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me :
 
 I'm Front-End developer from Poland 🇵🇱.
+🔭 I'm currently diving deep into React and Next.js to master these tools.
+🌱 Plans for future? Trying Vue and Angular, learn React Native and lick some backend frameworks.
+⚡ In my free time I'm watching tech channels on YT and playing games 🎮
+📫 How to reach me? Check my website: [rafalnawojczyk.pl](rafalnawojczyk.pl)
 
 <!--
 **rafalnawojczyk/rafalnawojczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

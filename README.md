@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+### :man_technologist: About Me :
+
+I'm Front-End developer from Poland :flag-pl:.
 
 <!--
 **rafalnawojczyk/rafalnawojczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

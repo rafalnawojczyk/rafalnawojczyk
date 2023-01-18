@@ -30,11 +30,21 @@ I'm Front-End developer from Poland 🇵🇱.
 
 ### 🔥 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rafalnawojczyk&theme=react&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rafalnawojczyk&theme=dark&mode=weekly)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafalnawojczyk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <details>
- <summary><h3>🔧 Software that I know</h3></summary>
-<p> test</>p
+ <summary><h3>🔧 Software that I use</h3></summary>
+ 
+ ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+ ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+ ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+ ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+ 
+ 
+ 
+ 
+ 
 </details>

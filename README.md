@@ -32,3 +32,9 @@ I'm Front-End developer from Poland 🇵🇱.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rafalnawojczyk&theme=react&mode=weekly)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafalnawojczyk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<details>
+ <summary><h3>🔧 Software that I know</h3></summary>
+<p> test</>p
+</details>

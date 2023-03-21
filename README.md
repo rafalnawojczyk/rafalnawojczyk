@@ -3,8 +3,8 @@
 ### 👨‍💻 About Me :
 
 I'm Front-End developer from Poland 🇵🇱.
-- 🔭 I'm currently diving deep into React and Next.js to master these tools.
-- 🌱 Plans for future? Trying Vue and Angular, learn React Native and lick some backend frameworks.
+- 🔭 I'm currently diving deep into React, Next.js and Node.js with Express.
+- 🌱 Plans for future? Trying Vue and Angular and learn React Native.
 - ⚡ In my free time I'm watching tech/cooking channels on YT and playing games 🎮
 - 📫 How to reach me? Check my website: [rafalnawojczyk.pl](https://rafalnawojczyk.pl)
 - 🌟 Project I'm most proud of? [twitch-statistics.vercel.app/](https://twitch-statistics.vercel.app)
@@ -26,6 +26,9 @@ I'm Front-End developer from Poland 🇵🇱.
  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="JEST" alt="JEST" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
 <br><br>
 
 ### 🔥 My Stats :

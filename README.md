@@ -3,8 +3,8 @@
 ### 👨‍💻 About Me :
 
 I'm Front-End developer from Poland 🇵🇱.
-- 🔭 I'm currently diving deep into React, Next.js and Node.js with Express.
-- 🌱 Plans for future? Trying Vue and Angular and learn React Native.
+- 🔭 I'm currently diving deep into React, Next.js and Node.js with Express and also React Native.
+- 🌱 Plans for future? Trying Vue and Angular.
 - ⚡ In my free time I'm watching tech/cooking channels on YT and playing games 🎮
 - 📫 How to reach me? Check my website: [rafalnawojczyk.pl](https://rafalnawojczyk.pl)
 - 🌟 Project I'm most proud of? [twitch-statistics.vercel.app/](https://twitch-statistics.vercel.app)

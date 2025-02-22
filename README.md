@@ -7,7 +7,7 @@ I'm Full-stack Software Engineer from Poland 🇵🇱.
 - 🌱 Plans for future? Trying Swift and Kotlin.
 - ⚡ In my free time I'm watching tech/cooking channels on YT and playing games 🎮
 - 📫 How to reach me? Check my website: [rafalnawojczyk.pl](https://rafalnawojczyk.pl)
-- 🌟 Project I'm most proud of? Cube Rivals Mobile App - [App Store](https://apps.apple.com/gb/app/cube-rivals-cube-timer/id6738395547) [Play Store](https://play.google.com/store/apps/details?id=com.anonymous.Cuberivals)
+- 🌟 Project I'm most proud of? Cube Rivals Mobile App - [App Store](https://apps.apple.com/gb/app/cube-rivals-cube-timer/id6738395547) / [Play Store](https://play.google.com/store/apps/details?id=com.anonymous.Cuberivals)
 
 <br><br>
 ### 🛠️ Languages and Tools :

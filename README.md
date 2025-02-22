@@ -5,7 +5,7 @@
 I'm Full-stack Software Engineer from Poland 🇵🇱.
 - 🔭 I'm currently diving deep into NestJS and SQL databases.
 - 🌱 Plans for future? Trying Swift and Kotlin.
-- ⚡ In my free time I'm watching tech/cooking channels on YT and playing games 🎮
+- ⚡ In my free time Playing with my dog, learning guitar and playing games 🎮
 - 📫 How to reach me? Check my website: [rafalnawojczyk.pl](https://rafalnawojczyk.pl)
 - 🌟 Project I'm most proud of? Cube Rivals Mobile App - [App Store](https://apps.apple.com/gb/app/cube-rivals-cube-timer/id6738395547) / [Play Store](https://play.google.com/store/apps/details?id=com.anonymous.Cuberivals)
 

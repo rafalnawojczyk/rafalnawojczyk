@@ -2,12 +2,12 @@
 <br><br>
 ### 👨‍💻 About Me :
 
-I'm Front-End developer from Poland 🇵🇱.
-- 🔭 I'm currently diving deep into React, Next.js and Node.js with Express and also React Native.
-- 🌱 Plans for future? Trying Vue and Angular.
+I'm Full-stack Software Engineer from Poland 🇵🇱.
+- 🔭 I'm currently diving deep into NestJS and SQL databases.
+- 🌱 Plans for future? Trying Swift and Kotlin.
 - ⚡ In my free time I'm watching tech/cooking channels on YT and playing games 🎮
 - 📫 How to reach me? Check my website: [rafalnawojczyk.pl](https://rafalnawojczyk.pl)
-- 🌟 Project I'm most proud of? [twitch-statistics.vercel.app/](https://twitch-statistics.vercel.app)
+- 🌟 Project I'm most proud of? Cube Rivals Mobile App - [App Store](https://apps.apple.com/gb/app/cube-rivals-cube-timer/id6738395547) [Play Store](https://play.google.com/store/apps/details?id=com.anonymous.Cuberivals)
 
 <br><br>
 ### 🛠️ Languages and Tools :
@@ -20,7 +20,7 @@ I'm Front-End developer from Poland 🇵🇱.
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
